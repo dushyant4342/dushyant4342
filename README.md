@@ -1,6 +1,13 @@
 # 💫 About Me:
-I'm currently working on<br>Automating data pipelines, optimizing Athena queries, and managing AWS Lambda functions for data ingestion and processing.<br><br>I'm looking to collaborate on<br>Scalable data solutions, cloud-based ETL pipelines, and integrations with banking and financial data systems.<br><br>I'm looking for help with<br>Enhancing the efficiency of large-scale data queries, improving AWS Glue job performance, and optimizing SFTP data transfers.<br><br>I'm currently learning<br>Advanced PySpark optimizations, improving data governance in AWS, and refining my Python scripting skills.<br><br>Ask me about: AWS Lambda, Athena query tuning, data automation, and handling financial data pipelines at scale.
+Graduating from IIT (BHU) Varanasi in 2020, I am a dedicated data science and machine learning professional with a passion for transforming complex business challenges into actionable, data-driven solutions. 
 
+My journey spans risk analytics, data management, and AI model deployment, where I have led initiatives that encompass end-to-end data migrations, the implementation of robust CI/CD pipelines, and the development of machine learning models that drive strategic decision-making. I have a proven track record of streamlining ETL processes, real-time data pipelines, and implementing data security practices. 
+
+I have developed machine learning-driven models for risk segmentation, communication optimization, and repayment prediction, significantly enhancing collection strategies and risk management. Additionally, I designed and implemented robust analytics and automation pipelines to streamline workflows.
+
+I excel at bridging the gap between technical teams and non-technical stakeholders, ensuring that complex data insights are translated into clear, actionable strategies. I bring creative thinking to every project, whether it's reimagining data workflows or spearheading new product development.
+
+Also, a passionate photographer, traveller, music lover and observer who tries to capture the world in some creative way.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dushyantshekhawat_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dushyantsingh) 
