@@ -2,7 +2,7 @@
 
 # Data Science & ML Engineer | IIT (BHU) Varanasi '20
 
-Driven by data, I transform complex business challenges into strategic solutions. With expertise in risk analytics, NLP, and deep learning, I build production-ready models and robust data pipelines. My experience spans end-to-end data engineering, product development and impactful data analytics . I bridge technical and non-technical worlds, delivering clear, actionable insights. Also, I'm a photographer, traveler, history and music enthusiast.
+Driven by data, I transform complex business challenges into strategic solutions. With expertise in risk analytics, NLP, and machine learning, I also build production-ready models and robust data pipelines. My experience spans end-to-end data engineering, product development and impactful data analytics. I bridge technical and non-technical worlds, delivering clear, actionable insights. Also, I'm a photographer, traveler, history and music enthusiast.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dushyantshekhawawt_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dushyant-singh-3214a8144) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dushyant.singh.civ16@itbhu.ac.in) 
