@@ -16,13 +16,13 @@ Graduating from IIT (BHU) Varanasi in 2020, I am a dedicated data science and ma
 
 ### Big Data Tools
 
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=plastic&logo=apachespark&logoColor=black) ![PySpark](https://img.shields.io/badge/PySpark-%23FDEE21.svg?style=plastic&logo=apachespark&logoColor=black) ![Trino](https://img.shields.io/badge/Trino-%230078D4.svg?style=plastic) ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-%230078D4.svg?style=plastic) ![Polars](https://img.shields.io/badge/Polars-%234C76C2.svg?style=plastic) ![Kafka](https://img.shields.io/badge/Kafka-%23231F20.svg?style=plastic&logo=apache-kafka&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-%23FDEE21.svg?style=plastic&logo=apachespark&logoColor=black) ![Trino](https://img.shields.io/badge/Trino-%230078D4.svg?style=plastic) ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-%230078D4.svg?style=plastic) ![Polars](https://img.shields.io/badge/Polars-%234C76C2.svg?style=plastic)
 
 ### Data Engineering
 
 ![AWS Glue](https://img.shields.io/badge/Glue-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![AWS Kinesis](https://img.shields.io/badge/Kinesis-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Firehose](https://img.shields.io/badge/Firehose-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![EventBridge](https://img.shields.io/badge/EventBridge-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![ETL](https://img.shields.io/badge/ETL-%234A148C.svg?style=plastic)
 
-### DevOps
+### MLOps
 
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitLab CI/CD](https://img.shields.io/badge/CI/CD-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=plastic&logo=jupyter&logoColor=white) ![Docker Hub](https://img.shields.io/badge/Docker%20Hub-%232496ED.svg?style=plastic&logo=docker&logoColor=white)
 
