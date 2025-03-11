@@ -8,7 +8,7 @@ Graduating from IIT (BHU) Varanasi in 2020, I am a dedicated data science and ma
 # 💻 Tech Stack:
 ### Cloud Platforms
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![SageMaker](https://img.shields.io/badge/SageMaker-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![EC2](https://img.shields.io/badge/EC2-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![S3](https://img.shields.io/badge/S3-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Lambda](https://img.shields.io/badge/Lambda-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Glue](https://img.shields.io/badge/Glue-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Kinesis](https://img.shields.io/badge/Kinesis-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![EC2](https://img.shields.io/badge/EC2-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![S3](https://img.shields.io/badge/S3-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Lambda](https://img.shields.io/badge/Lambda-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
 
 ### Machine Learning
 
@@ -32,7 +32,7 @@ Graduating from IIT (BHU) Varanasi in 2020, I am a dedicated data science and ma
 
 ### Data Governance
 
-![OpenMetadata](https://img.shields.io/badge/OpenMetadata-%2300BFA5.svg?style=plastic) ![Ranger](https://img.shields.io/badge/Ranger-%23E65100.svg?style=plastic) ![PII Pipelines](https://img.shields.io/badge/PII%20Masking-%2333691E.svg?style=plastic) ![Data Lineage](https://img.shields.io/badge/Data%20Lineage-%230D47A1.svg?style=plastic)
+![OpenMetadata](https://img.shields.io/badge/OpenMetadata-%2300BFA5.svg?style=plastic) ![Ranger](https://img.shields.io/badge/Ranger-%23E65100.svg?style=plastic) ![PII Pipelines](https://img.shields.io/badge/PII%20Pipelines-%2333691E.svg?style=plastic) ![Data Quality](https://img.shields.io/badge/Data%20Quality-%230D47A1.svg?style=plastic)
 
 ### BI & Observability
 
