@@ -26,13 +26,10 @@ Graduating from IIT (BHU) Varanasi in 2020, I am a dedicated data science and ma
 
 ![AWS Glue](https://img.shields.io/badge/Glue-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![AWS Kinesis](https://img.shields.io/badge/Kinesis-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Firehose](https://img.shields.io/badge/Firehose-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![EventBridge](https://img.shields.io/badge/EventBridge-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![ETL](https://img.shields.io/badge/ETL-%234A148C.svg?style=plastic) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![EC2](https://img.shields.io/badge/EC2-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![S3](https://img.shields.io/badge/S3-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Lambda](https://img.shields.io/badge/Lambda-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) 
 
-### MLOps
-
-![GitLab CI/CD](https://img.shields.io/badge/CI/CD-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=plastic&logo=jupyter&logoColor=white) ![Docker Hub](https://img.shields.io/badge/Docker%20Hub-%232496ED.svg?style=plastic&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) 
-
 ### AI/ML Deployment
 
-![AWS Bedrock](https://img.shields.io/badge/Bedrock-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-%238B008B.svg?style=plastic) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
+![AWS Bedrock](https://img.shields.io/badge/Bedrock-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-%238B008B.svg?style=plastic) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/Flask-005571?style=plastic&logo=fastapi) ![GitLab CI/CD](https://img.shields.io/badge/CI/CD-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Docker Hub](https://img.shields.io/badge/Docker%20Hub-%232496ED.svg?style=plastic&logo=docker&logoColor=white) ![EC2](https://img.shields.io/badge/EC2-%23326ce5.svg?style=plastic&logo=EC2&logoColor=white) 
+
 
 ### Data Governance
 
