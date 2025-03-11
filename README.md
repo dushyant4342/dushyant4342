@@ -8,7 +8,7 @@ Graduating from IIT (BHU) Varanasi in 2020, I am a dedicated data science and ma
 # 💻 Tech Stack:
 ### Cloud Platforms
 
-![AmazonWebServices](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
+![AmazonWebServices](https://img.shields.io/badge/AmazonWebServices-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
 
 ## Machine Learning
 
