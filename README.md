@@ -36,7 +36,8 @@ Graduating from IIT (BHU) Varanasi in 2020, I am a dedicated data science and ma
 
 ### BI & Observability
 
-![Apache Superset](https://img.shields.io/badge/Apache%20Superset-%23F50057.svg?style=plastic&logo=apache-superset&logoColor=white) ![GChat Alerts](https://img.shields.io/badge/GChat%20Alert
+![Apache Superset](https://img.shields.io/badge/Apache%20Superset-%23F50057.svg?style=plastic&logo=apache-superset&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dushyant4342&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=dushyant4342&theme=dark&hide_border=false)<br/>
