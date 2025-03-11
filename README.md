@@ -8,7 +8,7 @@ Graduating from IIT (BHU) Varanasi in 2020, I am a dedicated data science and ma
 # 💻 Tech Stack:
 ### Cloud Platforms
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![EC2](https://img.shields.io/badge/EC2-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![S3](https://img.shields.io/badge/S3-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Lambda](https://img.shields.io/badge/Lambda-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
 
 ## Machine Learning
 
@@ -24,7 +24,7 @@ Graduating from IIT (BHU) Varanasi in 2020, I am a dedicated data science and ma
 
 ### Data Engineering
 
-![AWS Glue](https://img.shields.io/badge/Glue-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![AWS Kinesis](https://img.shields.io/badge/Kinesis-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Firehose](https://img.shields.io/badge/Firehose-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![EventBridge](https://img.shields.io/badge/EventBridge-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![ETL](https://img.shields.io/badge/ETL-%234A148C.svg?style=plastic)
+![AWS Glue](https://img.shields.io/badge/Glue-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![AWS Kinesis](https://img.shields.io/badge/Kinesis-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Firehose](https://img.shields.io/badge/Firehose-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![EventBridge](https://img.shields.io/badge/EventBridge-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![ETL](https://img.shields.io/badge/ETL-%234A148C.svg?style=plastic) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![EC2](https://img.shields.io/badge/EC2-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![S3](https://img.shields.io/badge/S3-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Lambda](https://img.shields.io/badge/Lambda-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) 
 
 ### MLOps
 
