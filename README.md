@@ -36,7 +36,14 @@ Graduating from IIT (BHU) Varanasi in 2020, I am a dedicated data science and ma
 
 ### BI & Observability
 
-![Apache Superset](https://img.shields.io/badge/Apache%20Superset-%23F50057.svg?style=plastic&logo=apache-superset&logoColor=white)
+![Apache Superset](https://img.shields.io/badge/Apache%20Superset-%23F50057.svg?style=plastic&logo=apache-superset&logoColor=white) ![GChat Alerts](https://img.shields.io/badge/GChat%20Alerts-%234285F4.svg?style=plastic)
+
+### Creative Tools
+
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) Skilled in professional image editing and graphic design with Adobe Photoshop.
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-%23E60046.svg?style=plastic) Proficient in video editing and color grading using DaVinci Resolve.
+![VN Video Editor](https://img.shields.io/badge/VN%20Video%20Editor-%23128C7E.svg?style=plastic) Experienced in mobile video editing with VN Video Editor.
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) Adept at photo editing and workflow management with Adobe Lightroom.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dushyant4342&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
