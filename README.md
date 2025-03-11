@@ -32,7 +32,7 @@ Graduating from IIT (BHU) Varanasi in 2020, I am a dedicated data science and ma
 
 ### Data Governance
 
-![OpenMetadata](https://img.shields.io/badge/OpenMetadata-%2300BFA5.svg?style=plastic) ![Ranger](https://img.shields.io/badge/Ranger-%23E65100.svg?style=plastic) ![PII Masking](https://img.shields.io/badge/PII%20Masking-%2333691E.svg?style=plastic) ![Data Lineage](https://img.shields.io/badge/Data%20Lineage-%230D47A1.svg?style=plastic)
+![OpenMetadata](https://img.shields.io/badge/OpenMetadata-%2300BFA5.svg?style=plastic) ![Ranger](https://img.shields.io/badge/Ranger-%23E65100.svg?style=plastic) ![PII Pipelines](https://img.shields.io/badge/PII%20Masking-%2333691E.svg?style=plastic) ![Data Lineage](https://img.shields.io/badge/Data%20Lineage-%230D47A1.svg?style=plastic)
 
 ### BI & Observability
 
