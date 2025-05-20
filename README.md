@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-# Data Science & ML Engineer | IIT (BHU) Varanasi '20
+# Data Science & AI Engineer | IIT (BHU) Varanasi '20
 
 Driven by data, I transform complex business challenges into strategic solutions. With expertise in risk analytics, NLP, and machine learning, I also build production-ready models and robust data pipelines. My experience spans end-to-end data engineering, product development and impactful data analytics. I bridge technical and non-technical worlds, delivering clear, actionable insights. Also, I'm a photographer, traveler, history and music enthusiast.
 
